@@ -180,6 +180,10 @@ const jay = {
 	<a href="mailto:jayrane2004@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" height="45"/>
 	</a>
+	<a>
+		https://jayrane.dev
+		<div>🌐 Jay Rane </div>
+	</a>
 </div>
 
 ---
