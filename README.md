@@ -127,9 +127,9 @@ const jay = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=jayraneo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="GitHub Stats" height="200"/>
-	<img src="https://streak-stats.demolab.com/?user=jayraneo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraneo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" height="200"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=jayranedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="GitHub Stats" height="200"/>
+	<img src="https://streak-stats.demolab.com/?user=jayranedev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayranedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" height="200"/>
 </div>
 
 ---
@@ -138,7 +138,7 @@ const jay = {
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=jayraneo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+		<img src="https://github-profile-trophy.vercel.app/?username=jayranedev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 	</a>
 </div>
 
@@ -148,7 +148,7 @@ const jay = {
 
 <div align="center">
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayraneo&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayranedev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 	</a>
 </div>
 
@@ -157,7 +157,7 @@ const jay = {
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-	<img src="https://github-contributor-stats.vercel.app/api?username=jayraneo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache=86400" alt="Top Contributed Repositories" />
+	<img src="https://github-contributor-stats.vercel.app/api?username=jayranedev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache=86400" alt="Top Contributed Repositories" />
 </div>
 
 ---
@@ -224,7 +224,7 @@ If you find my projects helpful or interesting, consider supporting:
 
 ### 🌟 "Building tomorrow's solutions with today's cutting-edge technology" 🌟
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jayraneo&color=blueviolet&style=plastic)](https://github.com/jayraneo)
+[![Profile Views](https://komarev.com/ghpvc/?username=jayranedev&color=blueviolet&style=plastic)](https://github.com/jayranedev)
 
 <em>Thanks for visiting! Don't forget to ⭐ repositories you like.</em>
 
