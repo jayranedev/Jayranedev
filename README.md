@@ -87,8 +87,8 @@ jay = {
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@Jay__Rane__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jay_Rane__)
-[![Instagram](https://img.shields.io/badge/Instagram-jay__.rane-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jay_.rane)
+[![X](https://img.shields.io/badge/X-@jayraneog-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jayraneog)
+[![Instagram](https://img.shields.io/badge/Instagram-jayrane.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jayrane.me)
 [![YouTube](https://img.shields.io/badge/YouTube-@jay--rane-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jay-rane)
 
 **📍 Goa, India · 📧 jayrane2004@gmail.com · 🌐 [jayrane.dev](https://jayrane.dev) · 📄 [cv.jayrane.dev](https://cv.jayrane.dev)**
